@@ -17,10 +17,12 @@
 			</tr>
 			<tr>
 				<td>PW</td>
-				<td><input type="password" name="userPw"/></td>
+				<td><input type="text" name="userPw"/></td>
 			</tr>
 			<tr>
-				<td colspan="2"></td>
+				<td colspan="2">
+					<button>로그인</button>
+				</td>
 			</tr>
 		</table>
 	</body>
